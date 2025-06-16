@@ -1,0 +1,8 @@
+streamlit==1.38.0
+torch==2.4.1
+transformers==4.33.2
+#indic-transliteration==2.3.69
+#IndicTransToolkit==0.1.0
+numpy==2.2.5
+pandas==2.2.3
+huggingface_hub==0.23.4

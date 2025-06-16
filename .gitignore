@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Model cache
+model_cache/
+
+# Virtual environment
+venv/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# IDE specific
+.idea/
+.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+download_model.py
+download_model1B.py
